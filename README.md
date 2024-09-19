@@ -1,5 +1,6 @@
 # Blackjack
-Equipo de fundamentos.       
+Equipo de fundamentos.  
+       
 Integrantes:  
 Jesús Pineda Gonzales.       
 Alexander Zepeda Díaz     
