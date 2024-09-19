@@ -1,4 +1,4 @@
-# Blackjack
+<fontcolor=Black># Blackjack</fontcolor>
 <h2>Equipo de fundamentos.  </h2>
        
 Integrantes:  
